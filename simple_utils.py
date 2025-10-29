@@ -1,8 +1,5 @@
 # simple_utils.py - A tiny utility library
 
-var a = test
-var b = test1
-
 def reverse_string(text):
     """Reverses the characters in a string."""
     return text[::-1]
